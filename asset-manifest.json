@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/baucua/static/css/main.c76af840.css",
+    "main.js": "/baucua/static/js/main.f3ba8331.js",
+    "static/js/787.3e1cb458.chunk.js": "/baucua/static/js/787.3e1cb458.chunk.js",
+    "static/media/cua.png": "/baucua/static/media/cua.d8fc3fca4e20e5fded61.png",
+    "static/media/tom.png": "/baucua/static/media/tom.0b6e95ce4e6465d9a908.png",
+    "static/media/nai.png": "/baucua/static/media/nai.1524f7bc8038a9d2c817.png",
+    "static/media/ca.png": "/baucua/static/media/ca.9f96f0d95ada5cb7a3c6.png",
+    "static/media/ga.png": "/baucua/static/media/ga.776806df47f78ad02ee2.png",
+    "static/media/bau.png": "/baucua/static/media/bau.0c676ced52e9bdb9943a.png",
+    "static/media/logo.svg": "/baucua/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/baucua/index.html",
+    "main.c76af840.css.map": "/baucua/static/css/main.c76af840.css.map",
+    "main.f3ba8331.js.map": "/baucua/static/js/main.f3ba8331.js.map",
+    "787.3e1cb458.chunk.js.map": "/baucua/static/js/787.3e1cb458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76af840.css",
+    "static/js/main.f3ba8331.js"
+  ]
+}
